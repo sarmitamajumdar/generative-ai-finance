@@ -16,3 +16,12 @@ It includes **Python visualization scripts** and examples that demonstrate how g
 
 ---
 
+
+---
+
+## Setup Instructions
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/generative-ai-finance.git
+cd generative-ai-finance
