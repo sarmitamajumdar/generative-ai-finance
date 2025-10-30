@@ -15,6 +15,9 @@ It includes **Python visualization scripts** and examples that demonstrate how g
 - Export visuals for publishing or presentations
 
 ---
+### Installation dependencies
+
+pip install -r requirements.txt
 
 
 ---
